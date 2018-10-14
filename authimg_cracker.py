@@ -242,7 +242,7 @@ signal = 0
 
 #passdict = {}
 
-filename, index = getPW('passlist\\10_million_password_list_top_100000.txt') 
+filename, index = getPW('hak5.txt') 
 
 start = time.time()
 
